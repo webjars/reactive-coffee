@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>reactive-coffee</artifactId>
-    <version>1.2.3-SNAPSHOT</version>
+    <version>1.2.3</version>
     <name>reactive.coffee</name>
     <description>WebJar for reactive.coffee</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/reactive-coffee</url>
         <connection>scm:git:https://github.com/webjars/reactive-coffee.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/reactive-coffee.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>reactive-coffee-1.2.3</tag>
     </scm>
     
     <build>
